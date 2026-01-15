@@ -12,8 +12,4 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adhityavalmiki&show_icons=true&theme=blueberry&locale=en" alt="adhityavalmiki" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adhityavalmiki&show_icons=true&theme=blueberry&locale=en&layout=compact" alt="adhityavalmiki" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adhityavalmiki&theme=blueberry" alt="adhityavalmiki" /></p>
